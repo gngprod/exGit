@@ -1,7 +1,14 @@
 print("Hello world")
 print("GitTest")
-n = 2
+n = 0
 # коммент
 print(n)
 d = 10
-g = n + d
+
+n = 20
+
+for i in n:
+    d +=i
+print(d)
+
+
