@@ -1,4 +1,8 @@
 print("Hello world")
 print("GitTest")
-u = 1
+n = 0
+# коммент
 print(u)
+d = 10
+
+
